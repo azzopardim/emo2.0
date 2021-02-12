@@ -1,0 +1,33 @@
+[1.150s] Invoking command in '/media/michael/bach_SD_128GB/emo2/emo2.0/src/emo_proximity': PYTHONPATH=/media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_proximity build --build-base /media/michael/bach_SD_128GB/emo2/emo2.0/build/emo_proximity/build install --prefix /media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity --record /media/michael/bach_SD_128GB/emo2/emo2.0/build/emo_proximity/install.log --single-version-externally-managed
+[1.605s] running egg_info
+[1.606s] creating ../../build/emo_proximity/emo_proximity.egg-info
+[1.607s] writing ../../build/emo_proximity/emo_proximity.egg-info/PKG-INFO
+[1.608s] writing dependency_links to ../../build/emo_proximity/emo_proximity.egg-info/dependency_links.txt
+[1.609s] writing entry points to ../../build/emo_proximity/emo_proximity.egg-info/entry_points.txt
+[1.609s] writing requirements to ../../build/emo_proximity/emo_proximity.egg-info/requires.txt
+[1.609s] writing top-level names to ../../build/emo_proximity/emo_proximity.egg-info/top_level.txt
+[1.611s] writing manifest file '../../build/emo_proximity/emo_proximity.egg-info/SOURCES.txt'
+[1.709s] reading manifest file '../../build/emo_proximity/emo_proximity.egg-info/SOURCES.txt'
+[1.710s] writing manifest file '../../build/emo_proximity/emo_proximity.egg-info/SOURCES.txt'
+[1.710s] running build
+[1.710s] running build_py
+[1.710s] creating /media/michael/bach_SD_128GB/emo2/emo2.0/build/emo_proximity/build
+[1.710s] creating /media/michael/bach_SD_128GB/emo2/emo2.0/build/emo_proximity/build/lib
+[1.710s] creating /media/michael/bach_SD_128GB/emo2/emo2.0/build/emo_proximity/build/lib/emo_proximity
+[1.711s] copying emo_proximity/__init__.py -> /media/michael/bach_SD_128GB/emo2/emo2.0/build/emo_proximity/build/lib/emo_proximity
+[1.711s] running install
+[1.711s] running install_lib
+[1.712s] creating /media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity/lib/python3.8/site-packages/emo_proximity
+[1.712s] copying /media/michael/bach_SD_128GB/emo2/emo2.0/build/emo_proximity/build/lib/emo_proximity/__init__.py -> /media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity/lib/python3.8/site-packages/emo_proximity
+[1.713s] byte-compiling /media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity/lib/python3.8/site-packages/emo_proximity/__init__.py to __init__.cpython-38.pyc
+[1.726s] running install_data
+[1.726s] creating /media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity/share/ament_index
+[1.726s] creating /media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity/share/ament_index/resource_index
+[1.727s] creating /media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity/share/ament_index/resource_index/packages
+[1.727s] copying resource/emo_proximity -> /media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity/share/ament_index/resource_index/packages
+[1.727s] copying package.xml -> /media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity/share/emo_proximity
+[1.727s] running install_egg_info
+[1.727s] Copying ../../build/emo_proximity/emo_proximity.egg-info to /media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity/lib/python3.8/site-packages/emo_proximity-0.0.0-py3.8.egg-info
+[1.727s] running install_scripts
+[1.750s] writing list of installed files to '/media/michael/bach_SD_128GB/emo2/emo2.0/build/emo_proximity/install.log'
+[1.818s] Invoked command in '/media/michael/bach_SD_128GB/emo2/emo2.0/src/emo_proximity' returned '0': PYTHONPATH=/media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/emo_proximity build --build-base /media/michael/bach_SD_128GB/emo2/emo2.0/build/emo_proximity/build install --prefix /media/michael/bach_SD_128GB/emo2/emo2.0/install/emo_proximity --record /media/michael/bach_SD_128GB/emo2/emo2.0/build/emo_proximity/install.log --single-version-externally-managed
